@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PriyaModhave-Shinde
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analytics
+- 🌱 Sucessfully completed Data Science Course from Technogeeks,Pune
 - 📫 Reach me  on priyamodhave2@gmail.com
 
 <!---
