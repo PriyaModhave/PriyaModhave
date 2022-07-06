@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PriyaModhave-Shinde
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics Course from EduBridge,Mumbai
-- 🌱 Sucessfully completed Data Science Course from Technogeeks,Pune
+- 🌱 I’m currently learning Data Analytics Course from EduBridge
 - 📫 Reach me  on priyamodhave2@gmail.com
 
 <!---
